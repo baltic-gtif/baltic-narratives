@@ -1,9 +1,12 @@
 [
   {
+    "cover-image": "https://raw.githubusercontent.com/triebnigg/public-narratives/triebnigg/energy-performance-of-buildings/assets/triebnigg/Energy-performance-of-buildings-cover-1749975298270.png",
+    "domain": "Sustainable Cities",
+    "tags": "remote sensing, surface temperature, Sentinel-3",
     "file": "https://esa-eodash.github.io/eodashboard-narratives/UEPM.md",
-    "title": "Simple Image Example",
+    "title": "",
     "subtitle": "",
-    "image": "assets/previews/EU-building-climate-tracker-1749975759643-1756887749842_preview.png"
+    "image": ""
   },
   {
     "cover-image": "https://picsum.photos/id/10/1920/1080",
