@@ -1,5 +1,11 @@
 [
   {
+    "file": "https://esa-eodash.github.io/eodashboard-narratives/UEPM.md",
+    "title": "Simple Image Example",
+    "subtitle": "",
+    "image": "assets/previews/EU-building-climate-tracker-1749975759643-1756887749842_preview.png"
+  },
+  {
     "cover-image": "https://picsum.photos/id/10/1920/1080",
     "date": "2025-01-01",
     "theme": "atmosphere",
