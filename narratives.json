@@ -1,10 +1,5 @@
 [
   {
-    "cover-image": "https://picsum.photos/id/10/1920/1080",
-    "date": "2025-01-01",
-    "theme": "atmosphere, sustainable cities",
-    "tags": "climate,pollution",
-    "official": true,
     "file": "https://esa-eodash.github.io/eodashboard-narratives/narrative_template.md",
     "title": " Narrative Template",
     "subtitle": "Narrative subtitle text",
