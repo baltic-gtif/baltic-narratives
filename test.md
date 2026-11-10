@@ -12,3 +12,8 @@ tags: some,tags
 ## First section
 
 Some text for the first section
+
+
+yyuguuuu
+
+![satellite.gif](https://raw.githubusercontent.com/baltic-gtif/baltic-narratives/d5e4e8972d34ff55317333f1fe5f37441a974a67/assets/lubojr/satellite-1794324085430.gif)
